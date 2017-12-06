@@ -1,2 +1,5 @@
 ---
 # defaults file for sa-tool-plantuml
+
+role_dir: "{{role_path}}"
+
